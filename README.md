@@ -16,7 +16,20 @@ Step Nr.1: The initial step involves creating a network diagram to provide a cle
 Step Nr.1 : Network Diagram: <br/>
 <img src="https://i.imgur.com/w8KYEpa.png" height="80%" width="80%" alt="Lab Steps Nr.1"/>
 <br />
-
+Step Nr.2: Configure basic settings on all devices, including enabling SSH on the routers and 13 switches.
+For all departmental switches, the following configurations will be applied:Set console and VTY passwords, Configure banner messages, Disable domain name lookup, Enable password encryption.
+<p align="center">
+Step Nr. 2: VTY, Banner, lookup, password encryption : <br/>
+<img src="https://i.imgur.com/pb2OHuF.png" height="80%" width="80%" alt="Lab Steps Nr.2"/>
+<img src="https://i.imgur.com/h6BCDeh.png" height="80%" width="80%" alt="Lab Steps Nr.2"/>
+<br />
+Step Nr.2.1: Configure basic settings on all devices, including enabling SSH on the routers and 13 switches.
+For all departmental switches, the following configurations will be applied:Set console and VTY passwords, Configure banner messages, Disable domain name lookup, Enable password encryption.
+<p align="center">
+Step Nr. 2.1 : VTY, Banner, lookup, password encryption : <br/>
+<img src="https://i.imgur.com/pb2OHuF.png" height="80%" width="80%" alt="Lab Steps Nr.2"/>
+<img src="https://i.imgur.com/h6BCDeh.png" height="80%" width="80%" alt="Lab Steps Nr.2"/>
+<br />
 <br />
 
 
