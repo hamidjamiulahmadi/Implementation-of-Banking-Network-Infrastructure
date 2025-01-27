@@ -31,24 +31,20 @@ Step Nr. 2.1 : VTY, Banner, lookup, password encryption : <br/>
 <img src="https://i.imgur.com/h6BCDeh.png" height="80%" width="80%" alt="Lab Steps Nr.2.1"/>
 <br />
 Step Nr.2.2: Next, I will replicate the same configuration across all routers.
+<p align="center">
 Step Nr. 2.2 : VTY, Banner, lookup, password encryption : <br/>
 <img src="https://i.imgur.com/FYaiZNM.png" height="80%" width="80%" alt="Lab Steps Nr.2.2"/>
 <img src="https://i.imgur.com/jHKW86d.png" height="80%" width="80%" alt="Lab Steps Nr.2.2"/>
 <br />
 Step Nr.3: Here, I will configure VLAN assignments, along with all access and trunk ports, and implement switch port security across all 12 switches. The Layer 3 switches connecting to each department switch will be set as trunk ports, and similarly, the Layer 2 switches connected to their respective department switches will be configured as access ports.
-Step Nr.3 : VTY, Banner, lookup, password encryption : <br/>
+<p align="center">
+Step Nr.3 : Trunk, Port Security : <br/>
 <img src="https://i.imgur.com/sVIqvSb.png" height="80%" width="80%" alt="Lab Steps Nr.3"/>
 <img src="https://i.imgur.com/JE5427V.png" height="80%" width="80%" alt="Lab Steps Nr.3"/>
 <img src="https://i.imgur.com/fVO6Xch.png" height="80%" width="80%" alt="Lab Steps Nr.3"/>
 <img src="https://i.imgur.com/3TdbIVd.png" height="80%" width="80%" alt="Lab Steps Nr.3"/>
 <br />
-Step Nr.3: Here, I will configure VLAN assignments, along with all access and trunk ports, and implement switch port security across all 12 switches. The Layer 3 switches connecting to each department switch will be set as trunk ports, and similarly, the Layer 2 switches connected to their respective department switches will be configured as access ports.
-Step Nr.3 : VTY, Banner, lookup, password encryption : <br/>
-<img src="https://i.imgur.com/sVIqvSb.png" height="80%" width="80%" alt="Lab Steps Nr.3"/>
-<img src="https://i.imgur.com/JE5427V.png" height="80%" width="80%" alt="Lab Steps Nr.3"/>
-<img src="https://i.imgur.com/fVO6Xch.png" height="80%" width="80%" alt="Lab Steps Nr.3"/>
-<img src="https://i.imgur.com/3TdbIVd.png" height="80%" width="80%" alt="Lab Steps Nr.3"/>
-<br />
+
 
  
 <br />
