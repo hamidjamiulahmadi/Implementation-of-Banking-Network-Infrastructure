@@ -44,6 +44,14 @@ Step Nr.3 : Trunk, Port Security : <br/>
 <img src="https://i.imgur.com/fVO6Xch.png" height="80%" width="80%" alt="Lab Steps Nr.3"/>
 <img src="https://i.imgur.com/3TdbIVd.png" height="80%" width="80%" alt="Lab Steps Nr.3"/>
 <br />
+Step Nr.4: I will begin by performing subnetting and IP addressing. First, I will configure the trunk ports on the Layer 3 switches to connect with all departmental interfaces. Then, I will assign IP addresses to the Layer 3 switch interfaces according to the provided diagram. Subsequently, I will configure the router interfaces in accordance with the diagram and assign the appropriate clock rates to each serial interface.
+<p align="center">
+Step Nr.4 : Trunk, Port Security : <br/>
+<img src="https://i.imgur.com/sVIqvSb.png" height="80%" width="80%" alt="Lab Steps Nr.4"/>
+<img src="https://i.imgur.com/JE5427V.png" height="80%" width="80%" alt="Lab Steps Nr.3"/>
+<img src="https://i.imgur.com/fVO6Xch.png" height="80%" width="80%" alt="Lab Steps Nr.3"/>
+<img src="https://i.imgur.com/3TdbIVd.png" height="80%" width="80%" alt="Lab Steps Nr.3"/>
+<br />
 
 
 
