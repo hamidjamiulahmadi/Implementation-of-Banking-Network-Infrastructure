@@ -48,9 +48,39 @@ Step Nr.4: I will begin by performing subnetting and IP addressing. First, I wil
 <p align="center">
 Step Nr.4 : Trunk, Port Security : <br/>
 <img src="https://i.imgur.com/sVIqvSb.png" height="80%" width="80%" alt="Lab Steps Nr.4"/>
-<img src="https://i.imgur.com/JE5427V.png" height="80%" width="80%" alt="Lab Steps Nr.3"/>
-<img src="https://i.imgur.com/fVO6Xch.png" height="80%" width="80%" alt="Lab Steps Nr.3"/>
-<img src="https://i.imgur.com/3TdbIVd.png" height="80%" width="80%" alt="Lab Steps Nr.3"/>
+<img src="https://i.imgur.com/JE5427V.png" height="80%" width="80%" alt="Lab Steps Nr.4"/>
+<img src="https://i.imgur.com/fVO6Xch.png" height="80%" width="80%" alt="Lab Steps Nr.4"/>
+<img src="https://i.imgur.com/3TdbIVd.png" height="80%" width="80%" alt="Lab Steps Nr.4"/>
+<br />
+Step Nr.5: I will begin by configuring the OSPF protocol on the routers, followed by its implementation on all switches.
+<p align="center">
+Step Nr.5 : OSPF Configuration : <br/>
+<img src="https://i.imgur.com/KAbrCPO.png" height="80%" width="80%" alt="Lab Steps Nr.5"/>
+<img src="https://i.imgur.com/bzgGjYQ.png" height="80%" width="80%" alt="Lab Steps Nr.5"/>
+<img src="https://i.imgur.com/hhZOAw9.png" height="80%" width="80%" alt="Lab Steps Nr.5"/>
+<img src="https://i.imgur.com/MgnC58t.png" height="80%" width="80%" alt="Lab Steps Nr.5"/>
+<br />
+Step Nr.6: I will assign static IP addresses to all devices in the server room, beginning with the servers.
+<p align="center">
+Step Nr.6 : Assign Server's IP : <br/>
+<img src="https://i.imgur.com/s1rdIPn.png" height="80%" width="80%" alt="Lab Steps Nr.6"/>
+<img src="https://i.imgur.com/o4ATbyA.png" height="80%" width="80%" alt="Lab Steps Nr.6"/>
+<br />
+Step Nr.7: I will configure the DHCP server to assign IP addresses to all devices across the network. Specifically, I will create address pools for each floor and its respective departments, excluding the server department. This will involve creating 11 distinct pools for the 4 floors, with each floor consisting of 3 departments.
+<p align="center">
+Step Nr.7 : DHCP Pool : <br/>
+<img src="https://i.imgur.com/sFAee5h.png" height="80%" width="80%" alt="Lab Steps Nr.7"/>
+<br />
+Step Nr.8: Inter-VLAN routing will be configured across all 13 switches, along with the assignment of IP DHCP helper addresses. As indicated in the diagram, the DHCP server is located on a separate network. To ensure all devices can access the DHCP server, I will create the necessary VLANs and configure the DHCP server's IP address as the DHCP helper address for each VLAN, thereby enabling device communication with the server.
+The first step will involve establishing inter-VLAN routing on the Layer 3 switches. Subsequently, I will verify that each department’s PCs can automatically receive an IP address from the DHCP server. Next, I will configure the DNS server and assign the server’s IP address to all relevant DHCP pools. Following the configuration of the DNS server, I will verify on each PC that it has successfully obtained the DNS server address and is able to resolve domain names to IP addresses.
+<p align="center">
+Step Nr.8 : Inter-VLAN, DNS  : <br/>
+<img src="https://i.imgur.com/UptOWyd.png" height="80%" width="80%" alt="Lab Steps Nr.8"/>
+<img src="https://i.imgur.com/JWiAj53.png" height="80%" width="80%" alt="Lab Steps Nr.8"/>
+<img src="https://i.imgur.com/JE5VOQt.png" height="80%" width="80%" alt="Lab Steps Nr.8"/>
+<img src="https://i.imgur.com/TUuDUs8.png" height="80%" width="80%" alt="Lab Steps Nr.8"/>
+<img src="https://i.imgur.com/h6JRtiX.png" height="80%" width="80%" alt="Lab Steps Nr.8"/>
+<img src="https://i.imgur.com/BXSZDYH.png" height="80%" width="80%" alt="Lab Steps Nr.8"/>
 <br />
 
 
