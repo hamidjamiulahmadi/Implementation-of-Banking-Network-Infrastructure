@@ -82,6 +82,24 @@ Step Nr.8 : Inter-VLAN, DNS  : <br/>
 <img src="https://i.imgur.com/h6JRtiX.png" height="80%" width="80%" alt="Lab Steps Nr.8"/>
 <img src="https://i.imgur.com/BXSZDYH.png" height="80%" width="80%" alt="Lab Steps Nr.8"/>
 <br />
+Step Nr.9: Verification and Testing of Configuration, in the final step, i will verify that each department can communicate with one another, and ensure that guest wireless laptops can connect to the Wi-Fi, obtain IP and DNS addresses via DHCP, and successfully access the network.
+I will then perform a ping test from the admin department to the wireless PCs to confirm interconnectivity. Once all tests are successfully completed and all devices are able to communicate as intended, the configuration process will be considered fully successful, and the bank's network project will be deemed complete.
+<p align="center">
+Step Nr.9 : Verification and Testing of Configuration : <br/>
+<img src="https://i.imgur.com/QEMl1Wg.png" height="80%" width="80%" alt="Lab Steps Nr.9"/>
+<img src="https://i.imgur.com/qqRdbDC.png" height="80%" width="80%" alt="Lab Steps Nr.9"/>
+<img src="https://i.imgur.com/Mw7Pqau.png" height="80%" width="80%" alt="Lab Steps Nr.9"/>
+<img src="https://i.imgur.com/p565kio.png" height="80%" width="80%" alt="Lab Steps Nr.9"/>
+<img src="https://i.imgur.com/bKzMc2d.png" height="80%" width="80%" alt="Lab Steps Nr.9"/>
+<img src="https://i.imgur.com/B8BMiSM.png" height="80%" width="80%" alt="Lab Steps Nr.9"/>
+<img src="https://i.imgur.com/X27plfw.png" height="80%" width="80%" alt="Lab Steps Nr.9"/>
+<img src="https://i.imgur.com/j4bhzlD.png" height="80%" width="80%" alt="Lab Steps Nr.9"/>
+<img src="https://i.imgur.com/CxZ80cb.png" height="80%" width="80%" alt="Lab Steps Nr.9"/>
+<img src="https://i.imgur.com/q50uMuN.png" height="80%" width="80%" alt="Lab Steps Nr.9"/>
+<img src="https://i.imgur.com/RNEl9lw.png" height="80%" width="80%" alt="Lab Steps Nr.9"/>
+<br />
+Step Nr.9.1 : Final Diagram of Configuration : <br/>
+<img src="https://i.imgur.com/XJ7ELyf.png" height="80%" width="80%" alt="Lab Steps Nr.9.1"/>
 
 
 
