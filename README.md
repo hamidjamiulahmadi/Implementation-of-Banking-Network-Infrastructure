@@ -98,7 +98,7 @@ Step Nr.9 : Verification and Testing of Configuration : <br/>
 <img src="https://i.imgur.com/q50uMuN.png" height="80%" width="80%" alt="Lab Steps Nr.9"/>
 <img src="https://i.imgur.com/RNEl9lw.png" height="80%" width="80%" alt="Lab Steps Nr.9"/>
 <br />
-Step Nr.9.1 : Final Diagram of Configuration : <br/>
+Step Nr.9.1 : Final Diagram and Accomplishment : <br/>
 <img src="https://i.imgur.com/XJ7ELyf.png" height="80%" width="80%" alt="Lab Steps Nr.9.1"/>
 
 
